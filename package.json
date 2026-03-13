@@ -1,0 +1,22 @@
+{
+  "name": "one-dark-theme",
+  "displayName": "One Dark Theme",
+  "publisher": "joshpeng",
+  "description": "Atom One Dark color theme for VS Code.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/one-dark.json"
+      }
+    ]
+  }
+}
