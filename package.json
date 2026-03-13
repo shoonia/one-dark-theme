@@ -1,8 +1,8 @@
 {
   "name": "one-dark-theme",
   "displayName": "One Dark Theme",
-  "publisher": "joshpeng",
-  "description": "Atom One Dark color theme for VS Code.",
+  "publisher": "shoonia",
+  "description": "Atom One Dark color theme for VS Code",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.110.0"
