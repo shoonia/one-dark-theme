@@ -237,7 +237,6 @@
                 "invalid"
             ],
             "settings": {
-                "background": "#E05252",
                 "foreground": "#FFFFFF"
             }
         },
@@ -246,7 +245,6 @@
                 "invalid.deprecated"
             ],
             "settings": {
-                "background": "#E0C285",
                 "foreground": "#523D14"
             }
         },
