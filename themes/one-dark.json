@@ -35,7 +35,6 @@
                 "meta.brace.curly.begin.js",
                 "meta.brace.curly.end.js",
                 "meta.group.braces.round.function.arguments",
-                "variable.other.readwrite",
                 "meta.group.braces variable.other.readwrite",
                 "keyword.operator.accessor",
                 "css.punctuation.separator.key-value",
@@ -106,7 +105,8 @@
                 "markdown.fenced_code.block.markdown constant.language",
                 "markdown.block.variable.parameter",
                 "entity.name.type.enum",
-                "variable.other.constant.property"
+                "variable.other.constant.property",
+                "variable.other.readwrite"
             ],
             "settings": {
                 "foreground": "#d19a66"
@@ -126,6 +126,7 @@
                 "keyword.operator",
                 "constant.other.color",
                 "punctuation.separator.key-value",
+                "punctuation.accessor.optional",
                 "support.function",
                 "support.class support.function",
                 "python.meta.function-call.builtin.support.function",
@@ -202,6 +203,7 @@
                 "support.class",
                 "support.type.primitive",
                 "support.type.builtin",
+                "support.type.object.module"
             ],
             "settings": {
                 "foreground": "#e5c07b"
