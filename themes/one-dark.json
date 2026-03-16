@@ -219,11 +219,23 @@
             "scope": [
                 "entity.other.attribute-name.html",
                 "entity.other.attribute-name.js",
-                "entity.other.attribute-name.jsx"
+                "entity.other.attribute-name.jsx",
+                "entity.other.attribute-name.ts",
+                "entity.other.attribute-name.tsx"
             ],
             "settings": {
                 "fontStyle": "italic",
                 "foreground": "#D19A66"
+            }
+        },
+        {
+            "scope": [
+                "entity.other.attribute-name.namespace.js",
+                "entity.other.attribute-name.namespace.js.jsx",
+                "entity.other.attribute-name.namespace.tsx"
+            ],
+            "settings": {
+                "fontStyle": "italic"
             }
         },
         {
