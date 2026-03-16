@@ -11,7 +11,7 @@
         "editor.selectionHighlightBorder": "#222218",
         "editorCursor.foreground": "#F8F8F0",
         "editorIndentGuide.activeBackground": "#9D550FB0",
-        "textLink.foreground": "#C678DD"
+        "textLink.foreground": "#61AFEF"
     },
     "name": "One Dark",
     "semanticHighlighting": true,
@@ -308,6 +308,17 @@
             ],
             "settings": {
                 "foreground": "#AE81FFA0"
+            }
+        },
+        {
+            "scope": [
+                "string.detected-link",
+                "meta.structure.dictionary.json string.quoted.double.detected-link",
+                "markup.underline.link.markdown",
+                "markup.underline.link.image.markdown"
+            ],
+            "settings": {
+                "foreground": "#61AFEF"
             }
         }
     ],
