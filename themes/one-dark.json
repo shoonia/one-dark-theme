@@ -78,6 +78,7 @@
                 "keyword",
                 "keyword.other.namespace",
                 "storage.modifier",
+                "storage.modifier.ts",
                 "python.keyword.operator.logical",
                 "storage.type",
                 "python.builtin.support.function",
@@ -195,7 +196,6 @@
                 "entity.name.variable",
                 "entity.name.class",
                 "meta.class.extends variable.other.readwrite",
-                "support.type",
                 "support.class"
             ],
             "settings": {
