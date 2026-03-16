@@ -11,7 +11,7 @@
         "editor.selectionHighlightBorder": "#222218",
         "editorCursor.foreground": "#F8F8F0",
         "editorIndentGuide.activeBackground": "#9D550FB0",
-        "textLink.foreground": "#61AFEF"
+        "textLink.foreground": "#61afef"
     },
     "name": "One Dark",
     "semanticHighlighting": true,
@@ -23,7 +23,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#5C6370"
+                "foreground": "#5c6370"
             }
         },
         {
@@ -46,7 +46,7 @@
                 "markdown.block.fenced.code.operator.assignment"
             ],
             "settings": {
-                "foreground": "#ABB2BF"
+                "foreground": "#abb2bf"
             }
         },
         {
@@ -64,7 +64,7 @@
                 "markdown.block.fenced.code.string.quote"
             ],
             "settings": {
-                "foreground": "#98C379"
+                "foreground": "#98c379"
             }
         },
         {
@@ -84,7 +84,7 @@
                 "python.builtin.support.function",
             ],
             "settings": {
-                "foreground": "#C678DD"
+                "foreground": "#c678dd"
             }
         },
         {
@@ -94,7 +94,6 @@
                 "markdown.python.constant.numeric",
                 "python.constant.character.format.placeholder",
                 "meta.property.object.js",
-                "variable.other",
                 "meta.class.object.property.js",
                 "meta.property.class variable.other.property.static",
                 "python.variable.parameter",
@@ -108,7 +107,7 @@
                 "markdown.block.variable.parameter"
             ],
             "settings": {
-                "foreground": "#D19A66"
+                "foreground": "#d19a66"
             }
         },
         {
@@ -141,10 +140,11 @@
                 "punctuation.definition.markdown",
                 "beginning.punctuation.definition.quote.markdown",
                 "punctuation.definition.raw.markdown",
-                "meta.paragraph.markdown punctuation.definition.tag"
+                "meta.paragraph.markdown punctuation.definition.tag",
+                "storage.type.function.arrow"
             ],
             "settings": {
-                "foreground": "#56B6C2"
+                "foreground": "#56b6c2"
             }
         },
         {
@@ -185,11 +185,12 @@
                 "markdown.block.fenced.code.lambda.storage.type"
             ],
             "settings": {
-                "foreground": "#61AFEF"
+                "foreground": "#61afef"
             }
         },
         {
             "scope": [
+                "variable.language.this",
                 "variable.function.constructor",
                 "entity.name.function.preprocessor",
                 "entity.name.variable",
@@ -197,8 +198,8 @@
                 "meta.namespace.identifier entity.name.type",
                 "meta.class.extends variable.other.readwrite",
                 "support.class",
-                "support.type.primitive.ts",
-                "support.type.builtin.ts"
+                "support.type.primitive",
+                "support.type.builtin",
             ],
             "settings": {
                 "foreground": "#e5c07b"
@@ -223,7 +224,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#D19A66"
+                "foreground": "#d19a66"
             }
         },
         {
@@ -247,7 +248,7 @@
                 "invalid"
             ],
             "settings": {
-                "foreground": "#FFFFFF"
+                "foreground": "#ffffff"
             }
         },
         {
@@ -316,7 +317,7 @@
                 "markup.underline.link.image.markdown"
             ],
             "settings": {
-                "foreground": "#61AFEF"
+                "foreground": "#61afef"
             }
         }
     ],
