@@ -192,14 +192,16 @@
             "scope": [
                 "variable.function.constructor",
                 "entity.name.function.preprocessor",
-                "meta.namespace.identifier entity.name.type",
                 "entity.name.variable",
                 "entity.name.class",
+                "meta.namespace.identifier entity.name.type",
                 "meta.class.extends variable.other.readwrite",
-                "support.class"
+                "support.class",
+                "support.type.primitive.ts",
+                "support.type.builtin.ts"
             ],
             "settings": {
-                "foreground": "#E5C07B"
+                "foreground": "#e5c07b"
             }
         },
         {
@@ -208,7 +210,7 @@
             ],
             "settings": {
                 "fontStyle": "italic underline",
-                "foreground": "#E5C07B"
+                "foreground": "#e5c07b"
             }
         },
         {
