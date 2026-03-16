@@ -104,7 +104,9 @@
                 "markdown.fenced_code.block.markdown constant.numeric",
                 "markdown.fenced.code.block.markdown constant.numeric",
                 "markdown.fenced_code.block.markdown constant.language",
-                "markdown.block.variable.parameter"
+                "markdown.block.variable.parameter",
+                "entity.name.type.enum",
+                "variable.other.constant.property"
             ],
             "settings": {
                 "foreground": "#d19a66"
