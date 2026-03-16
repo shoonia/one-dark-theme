@@ -69,7 +69,6 @@
         },
         {
             "scope": [
-                "string.detected-link",
                 "keyword.control",
                 "keyword.operator.new",
                 "keyword.operator.module",
@@ -82,9 +81,6 @@
                 "python.keyword.operator.logical",
                 "storage.type",
                 "python.builtin.support.function",
-                "meta.structure.dictionary.json string.quoted.double.detected-link",
-                "markup.underline.link.markdown",
-                "markup.underline.link.image.markdown"
             ],
             "settings": {
                 "foreground": "#C678DD"
