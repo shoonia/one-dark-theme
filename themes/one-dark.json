@@ -80,7 +80,7 @@
                 "storage.modifier.ts",
                 "python.keyword.operator.logical",
                 "storage.type",
-                "python.builtin.support.function",
+                "python.builtin.support.function"
             ],
             "settings": {
                 "foreground": "#c678dd"
