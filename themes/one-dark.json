@@ -9,8 +9,11 @@
         "editor.lineHighlightBackground": "#23262D",
         "editor.selectionBackground": "#3D4148",
         "editor.selectionHighlightBorder": "#222218",
+        "editorGutter.addedBackground": "#98C379",
+        "editorGutter.modifiedBackground": "#61AFEF",
+        "editorGutter.deletedBackground": "#E06C75",
         "editorCursor.foreground": "#F8F8F0",
-        "editorIndentGuide.activeBackground": "#9D550FB0",
+        "editorIndentGuide.activeBackground1": "#9D550FB0",
         "textLink.foreground": "#61afef"
     },
     "name": "One Dark",
